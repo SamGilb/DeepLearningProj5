@@ -1,4 +1,4 @@
-# DeepLearningProj4
+# DeepLearningProj5
 The repository for Deep Learning Project 5 Spring 2020
 
 To access our code head over to [Here](https://github.com/SamGilb/DeepLearningProj5)
