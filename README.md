@@ -1,7 +1,7 @@
 # DeepLearningProj5
 The repository for Deep Learning Project 5 Spring 2020
 
-To access our code head over to [Here](https://github.com/SamGilb/DeepLearningProj5)
+To access our code head over to [Here](https://github.com/SamGilb/DeepLearningProj5/blob/master/main.R)
 
 Install these libraries for RStudio using install.packages()
 * ggplot2
